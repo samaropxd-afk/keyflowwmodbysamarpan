@@ -1,12 +1,12 @@
 {
-  "showAnnouncement": false,
+  "showAnnouncement": true,
   "announcementText": "⚠ New V2 Update Available!",
 
   "showContactButton": true,
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https://t.me/keyflowofficial",
 
-  "showAnnouncementButton": false,
+  "showAnnouncementButton": true,
   "announcementButtonText": "DOWNLOAD MOD",
   "announcementButtonUrl": "https://yourdownloadlink.com"
 }
