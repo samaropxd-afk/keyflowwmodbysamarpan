@@ -6,7 +6,7 @@
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https://t.me/keyflowofficial",
 
-  "showAnnouncementButton": true,
+  "showAnnouncementButton": false,
   "announcementButtonText": "DOWNLOAD MOD",
   "announcementButtonUrl": "https://yourdownloadlink.com"
 }
